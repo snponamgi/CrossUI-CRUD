@@ -21,7 +21,7 @@ xui.Class('App', 'xui.Module',{
                 xui.create("xui.APICaller")
                 .setHost(host,"api_list")
                 .setName("api_list")
-                .setQueryURL("{xui.constant.request_url}")
+                .setQueryURL("request.php")
                 .setResponseCallback([
                     {
                         "type":"host",
