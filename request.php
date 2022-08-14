@@ -1,3 +1,3 @@
 <?php
-include_once('../../RAD/phpLinb/linb.php');
+//include_once('../../RAD/phpLinb/linb.php');
 ?>
